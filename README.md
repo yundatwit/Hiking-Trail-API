@@ -7,7 +7,7 @@ Group members:
 
 Danle Ly (lyd9@wit.edu)
 Michael Sweeney (sweeneym11@wit.edu)
-Toby Dokyu (dokyit@wit.edu)
+Toby Dokyi (dokyit@wit.edu)
 Daren Yun (yund@wit.edu)
 
 How It's Made:
